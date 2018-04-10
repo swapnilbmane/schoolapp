@@ -1,0 +1,10 @@
+D:\devp\core\schoolapp\schoolapp.api\bin\Debug\netcoreapp2.0\schoolapp.api.deps.json
+D:\devp\core\schoolapp\schoolapp.api\bin\Debug\netcoreapp2.0\schoolapp.api.runtimeconfig.json
+D:\devp\core\schoolapp\schoolapp.api\bin\Debug\netcoreapp2.0\schoolapp.api.runtimeconfig.dev.json
+D:\devp\core\schoolapp\schoolapp.api\bin\Debug\netcoreapp2.0\schoolapp.api.dll
+D:\devp\core\schoolapp\schoolapp.api\bin\Debug\netcoreapp2.0\schoolapp.api.pdb
+D:\devp\core\schoolapp\schoolapp.api\obj\Debug\netcoreapp2.0\schoolapp.api.csproj.CoreCompileInputs.cache
+D:\devp\core\schoolapp\schoolapp.api\obj\Debug\netcoreapp2.0\schoolapp.api.AssemblyInfoInputs.cache
+D:\devp\core\schoolapp\schoolapp.api\obj\Debug\netcoreapp2.0\schoolapp.api.AssemblyInfo.cs
+D:\devp\core\schoolapp\schoolapp.api\obj\Debug\netcoreapp2.0\schoolapp.api.dll
+D:\devp\core\schoolapp\schoolapp.api\obj\Debug\netcoreapp2.0\schoolapp.api.pdb
